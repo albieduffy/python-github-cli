@@ -2,7 +2,7 @@
 
 ### Usage
 
-1. Fork anc clone this repo
+1. Fork and clone this repo
 2. Run ```pip install```
 3. Run ```pipenv shell```
 4. Run ```python main.py```
